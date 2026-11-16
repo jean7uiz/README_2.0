@@ -17,7 +17,7 @@ Site pessoal de apresentação profissional com seção de Perfil, Habilidades, 
 
 ## Link do site publicado
 
-https://jean7uiz.github.io/README_2.0/
+https://github.com/jean7uiz/README_2.0
 
 ## Como o projeto funciona
 
